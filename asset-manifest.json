@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/album-bootstrap-react/static/css/main.237737e3.chunk.css",
+    "main.js": "/album-bootstrap-react/static/js/main.5cb38588.chunk.js",
+    "main.js.map": "/album-bootstrap-react/static/js/main.5cb38588.chunk.js.map",
+    "runtime-main.js": "/album-bootstrap-react/static/js/runtime-main.2bd087d2.js",
+    "runtime-main.js.map": "/album-bootstrap-react/static/js/runtime-main.2bd087d2.js.map",
+    "static/js/2.cc144f0f.chunk.js": "/album-bootstrap-react/static/js/2.cc144f0f.chunk.js",
+    "static/js/2.cc144f0f.chunk.js.map": "/album-bootstrap-react/static/js/2.cc144f0f.chunk.js.map",
+    "static/js/3.149516ce.chunk.js": "/album-bootstrap-react/static/js/3.149516ce.chunk.js",
+    "static/js/3.149516ce.chunk.js.map": "/album-bootstrap-react/static/js/3.149516ce.chunk.js.map",
+    "index.html": "/album-bootstrap-react/index.html",
+    "static/css/main.237737e3.chunk.css.map": "/album-bootstrap-react/static/css/main.237737e3.chunk.css.map",
+    "static/js/2.cc144f0f.chunk.js.LICENSE.txt": "/album-bootstrap-react/static/js/2.cc144f0f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bd087d2.js",
+    "static/js/2.cc144f0f.chunk.js",
+    "static/css/main.237737e3.chunk.css",
+    "static/js/main.5cb38588.chunk.js"
+  ]
+}
