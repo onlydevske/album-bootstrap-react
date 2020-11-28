@@ -8,13 +8,11 @@ const Footer = () => {
           <a href='#'>Back to top</a>
         </p>
         <p>
-          Album example is &copy; Bootstrap, but please download and customize
-          it for yourself!
+          Album Bootstrap React example is &copy; Bootstrap - Examples, it is an open source project
         </p>
         <p>
-          New to Bootstrap?{' '}
-          <a href='https://getbootstrap.com/'>Visit the homepage</a> or read our{' '}
-          <a href='../getting-started/introduction/'>getting started guide</a>.
+          Modified by {' '}
+          <a href='http://chrisachinga.me/'>Chris Achinga</a>
         </p>
       </Container>
     </footer>
