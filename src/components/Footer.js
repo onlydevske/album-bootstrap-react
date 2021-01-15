@@ -5,7 +5,7 @@ const Footer = () => {
     <footer className='text-muted'>
       <Container>
         <p className='float-right'>
-          <a href='#'>Back to top</a>
+          <a href='https://www.github.com/srydercode/album-bootstrap-react'>Source Code</a>
         </p>
         <p>
           Album Bootstrap React example is &copy; Bootstrap - Examples, it is an open source project
